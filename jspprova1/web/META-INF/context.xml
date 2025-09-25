@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Context path="/jspprova1">
-  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="minha" password="17112007" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5432/WEB2" username="postgres"/>
-</Context>
